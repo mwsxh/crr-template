@@ -110,7 +110,7 @@
 	},
 	"repository": {},
 	"dependencies": {
-		"@tencent/convenient-react-redux": "^0.2.0"
+		"@tencent/convenient-react-redux": "file:tencent-convenient-react-redux-0.2.13.tgz"
 	},
 	"devDependencies": {}
 }
