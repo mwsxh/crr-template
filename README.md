@@ -9,7 +9,7 @@ git clone git@gitlab.shuame.com:wxpay/00.git wxpay-00
 
 ```
 # 安装必要组件
-npm install tencent-convenient-react-redux-0.2.13.tgz
+npm install tencent-convenient-react-redux-0.2.14.tgz
 ```
 
 ```
